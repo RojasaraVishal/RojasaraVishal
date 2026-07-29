@@ -75,8 +75,6 @@ Django              ██████████████░░ 88%
 
 HTML/CSS            ███████████████░ 92%
 
-JavaScript          ████████████░░░░ 75%
-
 SQL                 █████████████░░░ 82%
 
 QA Testing          ██████████████░░ 87%
@@ -117,7 +115,7 @@ Progress
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,c"/>
 </p>
 
 ### Web
@@ -135,7 +133,7 @@ Progress
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
 ---
@@ -146,7 +144,7 @@ Progress
 
 ```text
 Stack
-Python • Django • SQLite • HTML • CSS • JavaScript
+Python • Django • SQLite • HTML • CSS • 
 
 ✔ Authentication
 ✔ Product Management
